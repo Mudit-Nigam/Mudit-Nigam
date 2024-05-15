@@ -588,7 +588,7 @@ background-image: #FFFFFF;
 }
 
 .aboimg{
-  width:75%;
+  width:100%;
   height: auto;
   position:relative;
 }
@@ -606,7 +606,7 @@ background-image: #FFFFFF;
 }
 
 .abotd{
-  padding:10px;
+  padding:8px;
   width:33%;
   /*border : none;*/
 }
