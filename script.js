@@ -1,25 +1,25 @@
 const projectData = {
 	//["github-link", "demo-link"]
-    "1": ["https://github.com/Mudit-Nigam/Snake-Game-Computer-Vision-", ""],
-    "2": ["https://github.com/Mudit-Nigam/google-suite-task-manager", ""],
-    "3": ["https://github.com/Mudit-Nigam/vibgyor", ""],
-    "4": ["https://github.com/Mudit-Nigam/ANIMAL-MANAGEMENT-SYSTEM-USING-PHP-MYSQL-HTML-CSS", ""],
-    "5": ["", ""],
-    "6": ["https://github.com/Mudit-Nigam/VOICE-BIOMETRIC-PASSWORD-WITH-VOICE-OTP", ""],
-    "7": ["https://github.com/Mudit-Nigam/ACCIDENT-PREVENTION-IDENTIFICATION-AND-ALERTING", ""],
-    "8": ["https://github.com/Mudit-Nigam/Rakshak", ""]
+    "3": ["https://github.com/Mudit-Nigam/Snake-Game-Computer-Vision-", ""],
+    "4": ["https://github.com/Mudit-Nigam/google-suite-task-manager", ""],
+    "5": ["https://github.com/Mudit-Nigam/vibgyor", ""],
+    "6": ["https://github.com/Mudit-Nigam/ANIMAL-MANAGEMENT-SYSTEM-USING-PHP-MYSQL-HTML-CSS", ""],
+    "7": ["", ""],
+    "8": ["https://github.com/Mudit-Nigam/VOICE-BIOMETRIC-PASSWORD-WITH-VOICE-OTP", ""],
+    "9": ["https://github.com/Mudit-Nigam/ACCIDENT-PREVENTION-IDENTIFICATION-AND-ALERTING", ""],
+    "10": ["https://github.com/Mudit-Nigam/Rakshak", ""]
 }
 
 const projectOutput = {
 	//["github repo name", "path"]
-	"1" : ["Snake-Game-Computer-Vision-", "Output"],
-	"2" : ["google-suite-task-manager", "Output"],
-	"3" : ["vibgyor", "Output"],
-	"4" : ["ANIMAL-MANAGEMENT-SYSTEM-USING-PHP-MYSQL-HTML-CSS", "Output"],
-	"5" : ["", ""],
-    "6" : ["VOICE-BIOMETRIC-PASSWORD-WITH-VOICE-OTP", "Output"],
-    "7" : ["ACCIDENT-PREVENTION-IDENTIFICATION-AND-ALERTING", "Output"],
-    "8" : ["Rakshak", "Output"]
+	"3" : ["Snake-Game-Computer-Vision-", "Output"],
+	"4" : ["google-suite-task-manager", "Output"],
+	"5" : ["vibgyor", "Output"],
+	"6" : ["ANIMAL-MANAGEMENT-SYSTEM-USING-PHP-MYSQL-HTML-CSS", "Output"],
+	"7" : ["", ""],
+    "8" : ["VOICE-BIOMETRIC-PASSWORD-WITH-VOICE-OTP", "Output"],
+    "9" : ["ACCIDENT-PREVENTION-IDENTIFICATION-AND-ALERTING", "Output"],
+    "10" : ["Rakshak", "Output"]
 }
 
 let flickityInstance = null;
